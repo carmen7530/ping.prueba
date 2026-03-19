@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TU-USUARIO/TU-REPO
+    repoURL: https://github.com/carmen7530/carmen7530.github.io
     targetRevision: main
     path: .   # 👈 IMPORTANTE (esto evita el error)
   destination:
