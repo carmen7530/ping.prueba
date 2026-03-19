@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/carmen7530/carmen7530.github.io
     targetRevision: main
-    path: .   # 👈 IMPORTANTE (esto evita el error)
+    path: app.yml   # 👈 IMPORTANTE (esto evita el error)
   destination:
     server: https://kubernetes.default.svc
     namespace: default
